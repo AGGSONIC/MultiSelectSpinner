@@ -14,7 +14,7 @@ ext {
     siteUrl = 'https://github.com/pratikbutani/MultiSelectSpinner'
     gitUrl = 'https://github.com/pratikbutani/MultiSelectSpinner'
 
-    libraryVersion = '1.1'
+    libraryVersion = '1.1.DEV'
 
     developerId = 'pratikbutani'
     developerName = 'Pratik Butani'
