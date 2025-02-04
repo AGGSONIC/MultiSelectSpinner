@@ -1,6 +1,8 @@
-apply plugin: 'com.android.application'
-
+plugins {
+    alias(libs.plugins.sample)
+}
 android {
+    namespace "com.android.application"
     compileSdkVersion 30
     defaultConfig {
         applicationId "com.androidbuts.sample"
